@@ -7,12 +7,6 @@ resources:
   - name: Dataset of CTA datasets
     url: 'https://data.cityofchicago.org/api/views/pnau-cf66/rows.csv?accessType=DOWNLOAD'
     format: csv
-  - name: Air Monitoring Stations CSV
-    url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv'
-    format: csv
-  - name: Air Monitoring Stations Shapefile
-    url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.zip'
-    format: shp
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Education
