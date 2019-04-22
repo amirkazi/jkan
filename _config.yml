@@ -9,7 +9,7 @@ jkan_theme: Default
 
 # Authentication
 github_client_id: d876799e9c745d0b95c6
-gatekeeper_host: jkan-kazi
+gatekeeper_host: ct-gatekeeper
 
 # Dataset schema
 schema: default
