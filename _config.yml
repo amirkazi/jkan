@@ -1,11 +1,11 @@
 title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Transportation Portal
+description: A heavyweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Default
+jkan_theme: Darkly
 
 # Authentication
 github_client_id: d876799e9c745d0b95c6
