@@ -19,6 +19,6 @@ resources:
 license: 'MIT'
 category:
   - Transportation
-maintainer: The Undertaker
-maintainer_email: the@undertaker.com
+maintainer: Steve Austin
+maintainer_email: steve@austin.com
 ---

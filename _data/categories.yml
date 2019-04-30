@@ -1,4 +1,5 @@
 - name: Transportation
-  logo: /img/categories/transportation.svg
+  # logo: /img/categories/transportation.svg
+  logo: /img/categories/public_transportation.png
   logo_credit: Dmitry Baranovskiy from the Noun Project
   featured: true
